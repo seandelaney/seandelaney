@@ -33,6 +33,7 @@ class About extends Me
             Docker::class,
             MySQL::class,
             Java::class,
+            UnifiNetworks:class
         ];
     }
 }
