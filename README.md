@@ -12,7 +12,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'Solspace',
-                'position' => 'Full Stack Web Developer'         
+                'position' => 'Full Stack Software Developer'         
             ]
         ];
     }
