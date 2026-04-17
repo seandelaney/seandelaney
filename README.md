@@ -1,4 +1,4 @@
-### Hi there 👋
+pt### Hi there 👋
 
 ```php
 <?php
@@ -21,19 +21,29 @@ class About extends Me
     {
         return [
             Php::class,
+            Html::class,
+            Css::class,
             Javascript::class,
             Typescript::class,
-            CraftCMS::class,
+            CraftCms::class,
             Laravel::class,
+            ExpressionEngine::class,
+            BigCommerce::class,
+            Salesforce::class,
+            NodeJs::class,
             Vue::class,
             Angular::class,
             React::class,
+            NextJs::class,
             TailwindCss::class,
             Aws::class,
             Docker::class,
-            MySQL::class,
+            MySql::class,
+            PostgresQl::class,
             Java::class,
             UnifiNetworks::class
+            AiClaude::class,
+            AiChatGpt::class,
         ];
     }
 }
